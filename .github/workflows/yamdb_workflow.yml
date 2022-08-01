@@ -49,6 +49,6 @@ jobs:
         # Пуш образа в Docker Hub 
         uses: docker/build-push-action@v2 
         with:
-          context: .
+          file: api_yamdb/Dockerfile
           push: true
           tags: romka745/infra_web:latest
