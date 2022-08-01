@@ -1,1 +1,1 @@
-![Yamdb_workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[Yamdb_workflow](https://github.com/ropek745/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
