@@ -51,7 +51,7 @@ jobs:
         with:
           file: api_yamdb/Dockerfile
           push: true
-          tags: romka745/infra_web:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/infra_web:latest
   deploy:
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
