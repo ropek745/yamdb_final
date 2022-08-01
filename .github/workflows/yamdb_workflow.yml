@@ -1,6 +1,9 @@
 name: Django-app workflow
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   Check_on_PEP8_and_pytest:
