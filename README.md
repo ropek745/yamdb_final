@@ -1,5 +1,7 @@
 ![Yamdb_workflow](https://github.com/ropek745/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+Проект доступен по ссылке http://51.250.97.227/api/v1/
+
 Проект YaMDb, упакованный в Docker контейнеры
 ========================================================
 Проект YaMDb собирает отзывы пользователей на произведения.
