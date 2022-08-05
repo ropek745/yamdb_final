@@ -47,3 +47,4 @@ docker-compose exec web python manage.py loaddata fixtures.json
 ```
 
 ## Разработчик - [Роман Пекарев](https://github.com/ropek745) ##
+!+!
