@@ -20,7 +20,7 @@ DB_PORT=<порт для подключения к БД>
 ## Команды для запуска приложения в контейнерах ##
 ### 1. Склонировать репозиторий в рабочее пространство и перейти в нужную директорию: ###
 ```
-git clone git@github.com:ropek745/infra_sp2.git
+git clone git@github.com:ropek745/yamdb_final.git
 ```
 ```
 cd infra
